@@ -1,0 +1,63 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psmdcp
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Microsoft Azure Web App publish settings
+PublishProfiles/
+
+## Visual Studio Code
+.vscode/
+*.code-workspace
+
+## Rider
+.idea/
+*.sln.iml
+
+## User secrets
+secrets.json
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## dotCover
+.idea/.idea.DotSettings
+*.dotCover
+
+## Others
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+_ReSharper*/
+_TeamCity*/
+
+# Logs
+*.log
+
+# Optional: OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini

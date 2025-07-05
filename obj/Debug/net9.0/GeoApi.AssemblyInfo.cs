@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0066d912653318c605087b0968f6cba830e6938")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
