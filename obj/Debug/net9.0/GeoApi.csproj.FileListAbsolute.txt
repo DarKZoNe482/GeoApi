@@ -49,3 +49,4 @@
 /Users/yves/Documents/Dev/C#/GeoApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/yves/Documents/Dev/C#/GeoApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/yves/Documents/Dev/C#/GeoApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yves/Documents/Dev/C#/GeoApi/obj/Debug/net9.0/GeoApi.sourcelink.json

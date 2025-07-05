@@ -7,6 +7,7 @@ public class ZoneInondable : IToGeoJsonFeature<ZoneInondable>
     public int Id { get; set; }
     public string Nom { get; set; }
     public MultiPolygon Contour { get; set; }
+    public string Sqrc { get; set; }
 
     public static GeoJsonFeature ToFeature(ZoneInondable zone)
     {
@@ -17,7 +18,8 @@ public class ZoneInondable : IToGeoJsonFeature<ZoneInondable>
             Properties = new()
             {
                 { "id", zone.Id },
-                { "nom", zone.Nom }
+                { "nom", zone.Nom },
+                { "sqrc", zone.Sqrc }
             }
         };
     }
